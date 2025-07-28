@@ -2,4 +2,4 @@
 Repo of work done on LLM models for developing various products in Yulu Micromobility 
 
 
-![alt text]([https://github.com/rag9704/YULU-LLM/blob/main/Images/LLM_Bot.jpg])
+![LLM Bot](https://raw.githubusercontent.com/rag9704/YULU-LLM/main/Images/LLM_Bot.jpg)
